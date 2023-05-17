@@ -86,6 +86,6 @@ A highly experienced and accomplished software engineer who has worked for both 
 
 <a href="http://www.github.com/irceric"><img src="https://github-readme-stats.vercel.app/api?username=irceric&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="irceric's GitHub stats" /></a>
 
-### Support Me
+### Connect With Me
 
-<a href="https://www.buymeacoffee.com/ericchen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.linkedin.com/in/eric-chen-senior-engineer/"><img src="https://toppng.com/free-image/linkedin-icon-for-email-signature-PNG-free-PNG-Images_84771" width="200" /></a>
